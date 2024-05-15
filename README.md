@@ -2,7 +2,7 @@
 
 Dataset Link
 - Roboflow
-  - https://universe.roboflow.com/cashewfruitdetection/cashew-2-e7vzr
+  - https://universe.roboflow.com/classification-u4dyh/cashew-apple-fruit-maturity
 - Kaggle
   - https://www.kaggle.com/datasets/kedarbsawant/cashew-apple-fruit-maturity
 
